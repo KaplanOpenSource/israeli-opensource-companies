@@ -5,6 +5,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 
 | Company | Projects | Founders |
 |---|---|---|
+| [Appwrite](https://appwrite.io/) | ![Stars](https://img.shields.io/github/stars/appwrite/appwrite) [Appwrite](https://github.com/appwrite/appwrite) | [Eldad Fux](https://www.linkedin.com/in/eldadfux/) |
 | [BillRun](https://bill.run) | ![Stars](https://img.shields.io/github/stars/BillRun/system) [system](https://github.com/BillRun/system) | [Eran Uzan](https://www.linkedin.com/in/eran-uzan-2228406/), [Ofer Cohen](https://www.linkedin.com/in/oc666/), [Shani Dalal](https://www.linkedin.com/in/shanidalal/) |
 | [Elementor](https://elementor.com/) |![Stars](https://img.shields.io/github/stars/elementor/elementor) [Elementor](https://github.com/elementor/elementor) | [Ariel Klikstein](https://www.linkedin.com/in/arielk/), [Yoni Luksenberg](https://www.linkedin.com/in/yoni-luksenberg/) |
 | [JFrog](https://jfrog.com) | [artifactory](https://jfrog.com/community/download-artifactory-oss/) <br> ![Stars](https://img.shields.io/github/stars/jfrog/jenkins-artifactory-plugin) [jenkins-artifactory-plugin](https://github.com/jfrog/jenkins-artifactory-plugin) | [Fred Simon](https://www.linkedin.com/in/freddy33/), [Shlomi Ben Haim](https://www.linkedin.com/in/shlomibenhaim/), [Yoav Landman](https://www.linkedin.com/in/yoavlandman/) |
