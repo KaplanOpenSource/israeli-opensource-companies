@@ -5,6 +5,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 
 | Company | Projects | Founders |
 |---|---|---|
+| [Kaltura](https://corp.kaltura.com/) | ![Stars](https://img.shields.io/github/stars/kaltura/nginx-vod-module) [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) <br> ![Stars](https://img.shields.io/github/stars/kaltura/server) [server](https://github.com/kaltura/server) | [Michal Tsur](https://www.linkedin.com/in/michaltsur), [Ron Yekutiel](https://www.linkedin.com/in/ronyekutiel/), [Sergei Liakhovetsky](https://www.linkedin.com/in/sergeiliakhovetsky/) |
 
 ---
 Made with :heart: by Kaplan Open Source
