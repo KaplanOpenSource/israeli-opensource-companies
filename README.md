@@ -5,6 +5,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 
 | Company | Projects | Founders |
 |---|---|---|
+| [Amdocs](https://www.amdocs.com/) | ![Stars](https://img.shields.io/github/stars/open-Amdocs/webrix) [Webrix](https://github.com/open-Amdocs/webrix) |  |
 | [Amplication](https://amplication.com/) | ![Stars](https://img.shields.io/github/stars/amplication/amplication) [Amplication](https://github.com/amplication/amplication) | [Yuval Hazaz](https://www.linkedin.com/in/yuvalhazaz/) |
 | [Appwrite](https://appwrite.io/) | ![Stars](https://img.shields.io/github/stars/appwrite/appwrite) [Appwrite](https://github.com/appwrite/appwrite) | [Eldad Fux](https://www.linkedin.com/in/eldadfux/) |
 | [BillRun](https://bill.run) | ![Stars](https://img.shields.io/github/stars/BillRun/system) [system](https://github.com/BillRun/system) | [Eran Uzan](https://www.linkedin.com/in/eran-uzan-2228406/), [Ofer Cohen](https://www.linkedin.com/in/oc666/), [Shani Dalal](https://www.linkedin.com/in/shanidalal/) |
