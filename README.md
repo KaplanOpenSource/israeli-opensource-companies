@@ -5,6 +5,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 
 | Company | Projects | Founders |
 |---|---|---|
+| [Allegro Artificial Intelligence](https://clear.ml/) | ![Stars](https://img.shields.io/github/stars/allegroai/clearml) [ClearML](https://github.com/allegroai/clearml) | Gil Westrich, [Moses Guttmann](https://www.linkedin.com/in/moses-guttmann-cml), [Nir Bar-Lev](https://www.linkedin.com/in/nirbarlev/) |
 | [Amdocs](https://www.amdocs.com/) | ![Stars](https://img.shields.io/github/stars/open-Amdocs/webrix) [Webrix](https://github.com/open-Amdocs/webrix) |  |
 | [Amplication](https://amplication.com/) | ![Stars](https://img.shields.io/github/stars/amplication/amplication) [Amplication](https://github.com/amplication/amplication) | [Yuval Hazaz](https://www.linkedin.com/in/yuvalhazaz/) |
 | [Appwrite](https://appwrite.io/) | ![Stars](https://img.shields.io/github/stars/appwrite/appwrite) [Appwrite](https://github.com/appwrite/appwrite) | [Eldad Fux](https://www.linkedin.com/in/eldadfux/) |
