@@ -24,6 +24,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 | [Testim](https://www.testim.io/) | ![Stars](https://img.shields.io/github/stars/testimio/root-cause) [Root Cause](https://github.com/testimio/root-cause) | [Oren Rubin](https://www.linkedin.com/in/rubinoren/) |
 | [Treeverse](https://lakefs.io/) | ![Stars](https://img.shields.io/github/stars/treeverse/lakeFS) [LakeFS](https://github.com/treeverse/lakeFS) | [Einat Orr](https://www.linkedin.com/in/einatorr/), [Oz Katz](https://www.linkedin.com/in/oz-katz-4b3b389/) |
 | [Wix](https://www.wix.engineering/open-source) | ![Stars](https://img.shields.io/github/stars/wix/react-native-navigation) [react-native-navigation](https://github.com/wix/react-native-navigation) <br> ![Stars](https://img.shields.io/github/stars/wix/detox) [Detox](https://github.com/wix/detox) <br> ![Stars](https://img.shields.io/github/stars/wix/react-native-calendars) [react-native-calendars](https://github.com/wix/react-native-calendars) <br> ![Stars](https://img.shields.io/github/stars/wix/react-native-notifications) [react-native-notifications](https://github.com/wix/react-native-notifications) <br> ![Stars](https://img.shields.io/github/stars/wix/stylable) [stylable](https://github.com/wix/stylable) |  |
+| [Zooz](https://zooz.com/) | ![Stars](https://img.shields.io/github/stars/Zooz/predator) [Predator](https://github.com/Zooz/predator) | [Oren Levy](https://www.linkedin.com/in/levyoren/), [Ronen Morecki](https://il.linkedin.com/in/rmorecki) |
 
 ---
 Made with :heart: by Kaplan Open Source
