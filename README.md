@@ -6,6 +6,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 | Company | Projects | Founders |
 |---|---|---|
 | [Allegro Artificial Intelligence](https://clear.ml/) | ![Stars](https://img.shields.io/github/stars/allegroai/clearml) [ClearML](https://github.com/allegroai/clearml) | Gil Westrich, [Moses Guttmann](https://www.linkedin.com/in/moses-guttmann-cml), [Nir Bar-Lev](https://www.linkedin.com/in/nirbarlev/) |
+| [Allero](https://www.allero.io/) | ![Stars](https://img.shields.io/github/stars/allero-io/allero) [allero](https://github.com/allero-io/allero) | [Idan Shahar](https://il.linkedin.com/in/idan-shahar), [Itay Perry](https://www.linkedin.com/in/itayperry/) |
 | [Amdocs](https://www.amdocs.com/) | ![Stars](https://img.shields.io/github/stars/open-Amdocs/webrix) [Webrix](https://github.com/open-Amdocs/webrix) |  |
 | [Amplication](https://amplication.com/) | ![Stars](https://img.shields.io/github/stars/amplication/amplication) [Amplication](https://github.com/amplication/amplication) | [Yuval Hazaz](https://www.linkedin.com/in/yuvalhazaz/) |
 | [Aporia](https://www.aporia.com) | ![Stars](https://img.shields.io/github/stars/aporia-ai/kubesurvival) [kubesurvival](https://github.com/aporia-ai/kubesurvival) | [Alon Gubkin](https://www.linkedin.com/in/alongubkin/), [Liran Paul Hason](https://www.linkedin.com/in/hasuni/) |
