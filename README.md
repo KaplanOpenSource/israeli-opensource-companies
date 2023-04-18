@@ -1,7 +1,8 @@
 As an Israeli Open Source consulting company, we are proud to present the eco system of Israeli companies which create Open Source projects. The list is curated under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
-Companies are sorted by name. Contributors are welcomed, open a pull request to add new companies / projects or update the existing information.
+## Israeli Open Source Companies
 
+Companies are sorted by name. Contributors are welcomed, open a pull request to add new companies / projects or update the existing information.
 
 | Company | Projects | Founders |
 |---|---|---|
@@ -80,6 +81,17 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 | [UP9](https://up9.com//) | ![Stars](https://img.shields.io/github/stars/kubeshark/kubeshark) [kubeshark](https://github.com/kubeshark/kubeshark) | [Alex Haiut ](https://www.linkedin.com/in/alexhaiut/), [Alon Girmonsky](https://www.linkedin.com/in/alongirmonsky/), [Andrey Pokhilko](https://www.linkedin.com/in/andreypohilko/), [Refael Botbol Weiss](https://www.linkedin.com/in/refaelbotbol/) |
 | [Wix](https://www.wix.engineering/open-source) | ![Stars](https://img.shields.io/github/stars/wix/react-native-navigation) [react-native-navigation](https://github.com/wix/react-native-navigation) <br> ![Stars](https://img.shields.io/github/stars/wix/detox) [Detox](https://github.com/wix/detox) <br> ![Stars](https://img.shields.io/github/stars/wix/react-native-calendars) [react-native-calendars](https://github.com/wix/react-native-calendars) <br> ![Stars](https://img.shields.io/github/stars/wix/react-native-notifications) [react-native-notifications](https://github.com/wix/react-native-notifications) <br> ![Stars](https://img.shields.io/github/stars/wix/stylable) [stylable](https://github.com/wix/stylable) |  |
 | [Zooz](https://zooz.com/) | ![Stars](https://img.shields.io/github/stars/Zooz/predator) [Predator](https://github.com/Zooz/predator) | [Oren Levy](https://www.linkedin.com/in/levyoren/), [Ronen Morecki](https://il.linkedin.com/in/rmorecki) |
+
+## Honorable mentions of top Israeli lead Open Source projects
+![Stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices) [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) by [Yoni Goldberg](https://github.com/goldbergyoni) <br>
+![Stars](https://img.shields.io/github/stars/cool-RR/PySnooper) [PySnooper](https://github.com/cool-RR/PySnooper) by [Ram Rachum](https://github.com/cool-RR) <br>
+![Stars](https://img.shields.io/github/stars/linnovate/mean) [MEAN stack](github.com/linnovate/mean) by [Lior Kesos](https://github.com/liorkesos) <br>
+![Stars](https://img.shields.io/github/stars/yoavbls/pretty-ts-errors) [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) by [Yoav Balasiano](https://github.com/yoavbls) <br>
+![Stars](https://img.shields.io/github/stars/lirantal/dockly) [dockly](https://github.com/lirantal/dockly) by [Liran Tal](https://github.com/lirantal) <br>
+![Stars](https://img.shields.io/github/stars/guysoft/FullPageOS) [FullPageOS](https://github.com/guysoft/FullPageOS) by [Guy Sheffer](https://github.com/guysoft) <br>
+![Stars](https://img.shields.io/github/stars/ngneat/falso) [falso](https://github.com/ngneat/falso) by [Netanel Basal](https://github.com/NetanelBasal) <br>
+![Stars](https://img.shields.io/github/stars/urish/angular-moment) [angular-moment](https://github.com/urish/angular-moment) by [Uri Shaked](https://github.com/urish) <br>
+![Stars](https://img.shields.io/github/stars/guysoft/OctoPi) [OctoPi](https://github.com/guysoft/OctoPi) by [Guy Sheffer](https://github.com/guysoft) <br>
 
 ---
 Made with :heart: by Kaplan Open Source
