@@ -90,7 +90,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 ## Honorable mentions of top Israeli lead Open Source projects
 ![Stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices) [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) by [Yoni Goldberg](https://github.com/goldbergyoni) <br>
 ![Stars](https://img.shields.io/github/stars/cool-RR/PySnooper) [PySnooper](https://github.com/cool-RR/PySnooper) by [Ram Rachum](https://github.com/cool-RR) <br>
-![Stars](https://img.shields.io/github/stars/linnovate/mean) [MEAN stack](https://github.com/linnovate/mean) by [Lior Kesos](https://github.com/liorkesos) <br>
+![Stars](https://img.shields.io/github/stars/linnovate/mean) [MEAN stack](https://github.com/linnovate/mean) by [Linnovate](https://www.linnovate.net)  [Amos Haviv](https://github.com/amoshaviv) and [Lior Kesos](https://github.com/liorkesos) <br>
 ![Stars](https://img.shields.io/github/stars/yoavbls/pretty-ts-errors) [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) by [Yoav Balasiano](https://github.com/yoavbls) <br>
 ![Stars](https://img.shields.io/github/stars/lirantal/dockly) [dockly](https://github.com/lirantal/dockly) by [Liran Tal](https://github.com/lirantal) <br>
 ![Stars](https://img.shields.io/github/stars/guysoft/FullPageOS) [FullPageOS](https://github.com/guysoft/FullPageOS) by [Guy Sheffer](https://github.com/guysoft) <br>
