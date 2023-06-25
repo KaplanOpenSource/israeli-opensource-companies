@@ -102,5 +102,8 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 ![Stars](https://img.shields.io/github/stars/urish/angular-moment) [angular-moment](https://github.com/urish/angular-moment) by [Uri Shaked](https://github.com/urish) <br>
 ![Stars](https://img.shields.io/github/stars/guysoft/OctoPi) [OctoPi](https://github.com/guysoft/OctoPi) by [Guy Sheffer](https://github.com/guysoft) <br>
 
+## Media refenreces
+2023-06-25 Tech12 [בלי סודות: מה עומד מאחורי השגשוג של הקוד הפתוח](https://www.tech12.co.il/index-investments/Article-b49a7ca76d7d881027.htm)
+
 ---
 Made with :heart: by Kaplan Open Source
