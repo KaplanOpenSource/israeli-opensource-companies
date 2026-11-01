@@ -147,20 +147,20 @@ None of the listed repositories of these companies had a commit on its default b
 ## Honorable mentions of top Israeli lead Open Source projects
 ![Stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices) [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices) by [Yoni Goldberg](https://github.com/goldbergyoni) <br>
 ![Stars](https://img.shields.io/github/stars/DovAmir/awesome-design-patterns) [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) by [Dov Amir](https://github.com/DovAmir) <br>
-![Stars](https://img.shields.io/github/stars/cool-RR/PySnooper) [PySnooper](https://github.com/cool-RR/PySnooper) by [Ram Rachum](https://github.com/cool-RR) <br>
-![Stars](https://img.shields.io/github/stars/linnovate/mean) [MEAN stack](https://github.com/linnovate/mean) by [Lior Kesos](https://github.com/liorkesos) and [Amos Haviv](https://github.com/amoshaviv) <br>
-![Stars](https://img.shields.io/github/stars/yoavbls/pretty-ts-errors) [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) by [Yoav Balasiano](https://github.com/yoavbls) <br>
-![Stars](https://img.shields.io/github/stars/lirantal/dockly) [dockly](https://github.com/lirantal/dockly) by [Liran Tal](https://github.com/lirantal) <br>
-![Stars](https://img.shields.io/github/stars/guysoft/FullPageOS) [FullPageOS](https://github.com/guysoft/FullPageOS) by [Guy Sheffer](https://github.com/guysoft) <br>
-![Stars](https://img.shields.io/github/stars/ngneat/falso) [falso](https://github.com/ngneat/falso) by [Netanel Basal](https://github.com/NetanelBasal) <br>
-![Stars](https://img.shields.io/github/stars/urish/angular-moment) [angular-moment](https://github.com/urish/angular-moment) by [Uri Shaked](https://github.com/urish) <br>
-![Stars](https://img.shields.io/github/stars/guysoft/OctoPi) [OctoPi](https://github.com/guysoft/OctoPi) by [Guy Sheffer](https://github.com/guysoft) <br>
 ![Stars](https://img.shields.io/github/stars/Schniz/fnm) [fnm](https://github.com/Schniz/fnm) by [Gal Schlezinger](https://github.com/Schniz) <br>
+![Stars](https://img.shields.io/github/stars/cool-RR/PySnooper) [PySnooper](https://github.com/cool-RR/PySnooper) by [Ram Rachum](https://github.com/cool-RR) <br>
+![Stars](https://img.shields.io/github/stars/yoavbls/pretty-ts-errors) [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) by [Yoav Balasiano](https://github.com/yoavbls) <br>
+![Stars](https://img.shields.io/github/stars/github/gh-ost) [gh-ost](https://github.com/github/gh-ost) by GitHub, co-authored by [Shlomi Noach](https://github.com/shlomi-noach) <br>
+![Stars](https://img.shields.io/github/stars/linnovate/mean) [MEAN stack](https://github.com/linnovate/mean) by [Lior Kesos](https://github.com/liorkesos) and [Amos Haviv](https://github.com/amoshaviv) <br>
 ![Stars](https://img.shields.io/github/stars/thewh1teagle/vibe) [vibe](https://github.com/thewh1teagle/vibe) by [thewh1teagle](https://github.com/thewh1teagle) <br>
+![Stars](https://img.shields.io/github/stars/guysoft/FullPageOS) [FullPageOS](https://github.com/guysoft/FullPageOS) by [Guy Sheffer](https://github.com/guysoft) <br>
+![Stars](https://img.shields.io/github/stars/lirantal/dockly) [dockly](https://github.com/lirantal/dockly) by [Liran Tal](https://github.com/lirantal) <br>
+![Stars](https://img.shields.io/github/stars/guysoft/OctoPi) [OctoPi](https://github.com/guysoft/OctoPi) by [Guy Sheffer](https://github.com/guysoft) <br>
 ![Stars](https://img.shields.io/github/stars/ealush/vest) [vest](https://github.com/ealush/vest) by [Evyatar Alush](https://github.com/ealush) <br>
+![Stars](https://img.shields.io/github/stars/urish/angular-moment) [angular-moment](https://github.com/urish/angular-moment) by [Uri Shaked](https://github.com/urish) <br>
 ![Stars](https://img.shields.io/github/stars/MordechaiHadad/bob) [bob](https://github.com/MordechaiHadad/bob) by [Mordechai Hadad](https://github.com/MordechaiHadad) <br>
 ![Stars](https://img.shields.io/github/stars/yonahd/kor) [kor](https://github.com/yonahd/kor) by [Yonah Dissen](https://github.com/yonahd) <br>
-![Stars](https://img.shields.io/github/stars/github/gh-ost) [gh-ost](https://github.com/github/gh-ost) by GitHub, co-authored by [Shlomi Noach](https://github.com/shlomi-noach) <br>
+![Stars](https://img.shields.io/github/stars/ngneat/falso) [falso](https://github.com/ngneat/falso) by [Netanel Basal](https://github.com/NetanelBasal) <br>
 
 ## Media refenreces
 2023-06-25 Tech12 [בלי סודות: מה עומד מאחורי השגשוג של הקוד הפתוח](https://www.tech12.co.il/index-investments/Article-b49a7ca76d7d881027.htm)
