@@ -157,6 +157,7 @@ None of the listed repositories of these companies had a commit on its default b
 ![Stars](https://img.shields.io/github/stars/guysoft/OctoPi) [OctoPi](https://github.com/guysoft/OctoPi) by [Guy Sheffer](https://github.com/guysoft) <br>
 ![Stars](https://img.shields.io/github/stars/Schniz/fnm) [fnm](https://github.com/Schniz/fnm) by [Gal Schlezinger](https://github.com/Schniz) <br>
 ![Stars](https://img.shields.io/github/stars/thewh1teagle/vibe) [vibe](https://github.com/thewh1teagle/vibe) by [thewh1teagle](https://github.com/thewh1teagle) <br>
+![Stars](https://img.shields.io/github/stars/ealush/vest) [vest](https://github.com/ealush/vest) by [Evyatar Alush](https://github.com/ealush) <br>
 
 ## Media refenreces
 2023-06-25 Tech12 [בלי סודות: מה עומד מאחורי השגשוג של הקוד הפתוח](https://www.tech12.co.il/index-investments/Article-b49a7ca76d7d881027.htm)
