@@ -8,7 +8,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 
 A company is active if at least one of its listed repositories had a commit on its default branch in the 12 months before November 2026.
 
-**84 companies** (62 independent, 22 acquired, 2 of them since shut down), with **147 repositories**, 122 of them active.
+**85 companies** (63 independent, 22 acquired, 2 of them since shut down), with **148 repositories**, 123 of them active.
 
 | Company | Projects | Founders |
 |---|---|---|
@@ -48,6 +48,7 @@ A company is active if at least one of its listed repositories had a commit on i
 | [Granulate](https://granulate.io/) <br> Acquired by Intel, shut down in 2024 | ![Stars](https://img.shields.io/github/stars/Granulate/gprofiler) [gProfiler](https://github.com/Granulate/gprofiler) | [Asaf Ezra](https://www.linkedin.com/in/asaf-ezra/), [Tal Saiag](https://www.linkedin.com/in/tal-saiag/) |
 | [Habana Labs](https://habana.ai/) <br> Acquired by Intel | ![Stars](https://img.shields.io/github/stars/HabanaAI/Model-References) [Model-References](https://github.com/HabanaAI/Model-References) | [David Dahan](https://www.linkedin.com/in/davidd-dahan/), [Ran Halutz](https://www.linkedin.com/in/ran-halutz-06b33713/) |
 | [Iguazio](https://www.iguazio.com/) <br> Acquired by McKinsey | ![Stars](https://img.shields.io/github/stars/nuclio/nuclio) [Nuclio](https://github.com/nuclio/nuclio) <br> ![Stars](https://img.shields.io/github/stars/mlrun/mlrun) [Mlrun](https://github.com/mlrun/mlrun) | [Asaf Somekh](https://www.linkedin.com/in/asafsomekh/), [Yaron Haviv](https://www.linkedin.com/in/yaronh/), [Yaron Segav](https://www.linkedin.com/in/yaron-segev-48516a2/) |
+| [Inbox Zero](https://www.getinboxzero.com/) | ![Stars](https://img.shields.io/github/stars/elie222/inbox-zero) [Inbox Zero](https://github.com/elie222/inbox-zero) | Elie Steinbock |
 | [JFrog](https://jfrog.com) | [artifactory](https://jfrog.com/community/download-artifactory-oss/) <br> ![Stars](https://img.shields.io/github/stars/jfrog/jenkins-artifactory-plugin) [jenkins-artifactory-plugin](https://github.com/jfrog/jenkins-artifactory-plugin) <br> ![Stars](https://img.shields.io/github/stars/jfrog/boost) [boost](https://github.com/jfrog/boost) | [Fred Simon](https://www.linkedin.com/in/freddy33/), [Shlomi Ben Haim](https://www.linkedin.com/in/shlomibenhaim/), [Yoav Landman](https://www.linkedin.com/in/yoavlandman/) |
 | [Kaltura](https://corp.kaltura.com/) | ![Stars](https://img.shields.io/github/stars/kaltura/nginx-vod-module) [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) <br> ![Stars](https://img.shields.io/github/stars/kaltura/server) [server](https://github.com/kaltura/server) <br> ![Stars](https://img.shields.io/github/stars/kaltura/media-framework) [media-framework](https://github.com/kaltura/media-framework) | [Eran Etam](https://www.linkedin.com/in/eranetam/), [Michal Tsur](https://www.linkedin.com/in/michaltsur), [Ron Yekutiel](https://www.linkedin.com/in/ronyekutiel/), [Shay David](https://www.linkedin.com/in/shaydavid/) |
 | [Keep](https://www.keephq.dev/) <br> Acquired by Elastic | ![Stars](https://img.shields.io/github/stars/keephq/keep) [keep](https://github.com/keephq/keep) | [Shahar Glazner](https://www.linkedin.com/in/shahar-glazner-292946), [Tal Borenstein](https://www.linkedin.com/in/talbo/) |
