@@ -7,7 +7,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 | Company | Projects | Founders |
 |---|---|---|
 | [Accomplish](https://www.accomplish.ai/) | ![Stars](https://img.shields.io/github/stars/accomplish-ai/accomplish) [Accomplish](https://github.com/accomplish-ai/accomplish) | [Or Hiltch](https://www.linkedin.com/in/or-hiltch/) |
-| [Allegro Artificial Intelligence](https://clear.ml/) | ![Stars](https://img.shields.io/github/stars/allegroai/clearml) [ClearML](https://github.com/allegroai/clearml) | Gil Westrich, [Moses Guttmann](https://www.linkedin.com/in/moses-guttmann-cml), [Nir Bar-Lev](https://www.linkedin.com/in/nirbarlev/) |
+| [Allegro Artificial Intelligence](https://clear.ml/) | ![Stars](https://img.shields.io/github/stars/clearml/clearml) [ClearML](https://github.com/clearml/clearml) | Gil Westrich, [Moses Guttmann](https://www.linkedin.com/in/moses-guttmann-cml), [Nir Bar-Lev](https://www.linkedin.com/in/nirbarlev/) |
 | [Allero](https://www.allero.io/) | ![Stars](https://img.shields.io/github/stars/allero-io/allero) [allero](https://github.com/allero-io/allero) | [Idan Shahar](https://il.linkedin.com/in/idan-shahar), [Itay Perry](https://www.linkedin.com/in/itayperry/) |
 | [Amdocs](https://www.amdocs.com/) | ![Stars](https://img.shields.io/github/stars/open-Amdocs/webrix) [Webrix](https://github.com/open-Amdocs/webrix) |  |
 | [Amplication](https://amplication.com/) | ![Stars](https://img.shields.io/github/stars/amplication/amplication) [Amplication](https://github.com/amplication/amplication) | [Yuval Hazaz](https://www.linkedin.com/in/yuvalhazaz/) |
