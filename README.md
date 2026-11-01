@@ -160,6 +160,7 @@ None of the listed repositories of these companies had a commit on its default b
 ![Stars](https://img.shields.io/github/stars/ealush/vest) [vest](https://github.com/ealush/vest) by [Evyatar Alush](https://github.com/ealush) <br>
 ![Stars](https://img.shields.io/github/stars/MordechaiHadad/bob) [bob](https://github.com/MordechaiHadad/bob) by [Mordechai Hadad](https://github.com/MordechaiHadad) <br>
 ![Stars](https://img.shields.io/github/stars/yonahd/kor) [kor](https://github.com/yonahd/kor) by [Yonah Dissen](https://github.com/yonahd) <br>
+![Stars](https://img.shields.io/github/stars/github/gh-ost) [gh-ost](https://github.com/github/gh-ost) by GitHub, co-authored by [Shlomi Noach](https://github.com/shlomi-noach) <br>
 
 ## Media refenreces
 2023-06-25 Tech12 [בלי סודות: מה עומד מאחורי השגשוג של הקוד הפתוח](https://www.tech12.co.il/index-investments/Article-b49a7ca76d7d881027.htm)
