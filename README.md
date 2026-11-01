@@ -8,7 +8,7 @@ Companies are sorted by name. Contributors are welcomed, open a pull request to 
 
 A company is active if at least one of its listed repositories had a commit on its default branch in the 12 months before November 2026.
 
-**85 companies** (63 independent, 22 acquired, 2 of them since shut down), with **148 repositories**, 123 of them active.
+**86 companies** (64 independent, 22 acquired, 2 of them since shut down), with **149 repositories**, 124 of them active.
 
 | Company | Projects | Founders |
 |---|---|---|
@@ -76,6 +76,7 @@ A company is active if at least one of its listed repositories had a commit on i
 | [Permit.io](https://www.permit.io) | ![Stars](https://img.shields.io/github/stars/permitio/opal) [opal](https://github.com/permitio/opal) <br> ![Stars](https://img.shields.io/github/stars/permitio/optoggles) [optoggles](https://github.com/permitio/optoggles) | [Asaf Cohen](https://www.linkedin.com/in/asafc/), [Or Weis](https://www.linkedin.com/in/orweis/) |
 | [Playtika](https://www.playtika.com/) | ![Stars](https://img.shields.io/github/stars/PlaytikaOSS/testcontainers-spring-boot) [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) <br> ![Stars](https://img.shields.io/github/stars/PlaytikaOSS/feign-reactive) [feign-reactive](https://github.com/PlaytikaOSS/feign-reactive) | |
 | [Plurai](https://www.plurai.ai/) | ![Stars](https://img.shields.io/github/stars/plurai-ai/intellagent) [IntellAgent](https://github.com/plurai-ai/intellagent) | [Elad Levi](https://www.linkedin.com/in/elad-levi-a938a3121/), [Ilan Kadar](https://www.linkedin.com/in/ilan-kadar-b57ba511b) |
+| [Postiz](https://postiz.com/) | ![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app) [Postiz](https://github.com/gitroomhq/postiz-app) | Nevo David |
 | [Prompt Security](https://www.prompt.security) <br> Acquired by SentinelOne | ![Stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz) [ps-fuzz](https://github.com/prompt-security/ps-fuzz) <br> ![Stars](https://img.shields.io/github/stars/prompt-security/clawsec) [clawsec](https://github.com/prompt-security/clawsec) | [Itamar Golan](https://www.linkedin.com/in/itamar-g1/), [Lior Drihem](https://www.linkedin.com/in/liord/) |
 | [Qodo](http://www.qodo.ai/) | ![Stars](https://img.shields.io/github/stars/qodo-ai/pr-agent) [pr-agent](https://github.com/qodo-ai/pr-agent) <br> ![Stars](https://img.shields.io/github/stars/qodo-ai/qodo-cover) [qodo-cover](https://github.com/qodo-ai/qodo-cover) | [Dedy Kredo](https://www.linkedin.com/in/dedy-kredo/), [Itamar Friedman](https://www.linkedin.com/in/itamarf/) |
 | [Rafael](https://www.rafael.co.il/) | ![Stars](https://img.shields.io/github/stars/kube-HPC/hkube) [HKube](https://github.com/kube-HPC/hkube) |  |
